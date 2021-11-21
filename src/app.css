@@ -1,0 +1,10 @@
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 35px;
+}
+.number {
+  text-align: center;
+  font-size: 65px;
+  border: 1px solid black;
+}
